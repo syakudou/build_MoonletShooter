@@ -1,3 +1,0 @@
-. filter=lfs diff=lfs merge=lfs -text
-lfsfile filter=lfs diff=lfs merge=lfs -text
-.lfsfile filter=lfs diff=lfs merge=lfs -text
